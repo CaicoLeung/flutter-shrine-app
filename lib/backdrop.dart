@@ -224,7 +224,7 @@ class _BackdropTitle extends AnimatedWidget {
                 ).value,
                 child: FractionalTranslation(
                   translation: Tween<Offset>(
-                    begin: Offset(1.4, 0.0),
+                    begin: Offset.zero,
                     end: Offset(0.5, 0.0)
                   ).evaluate(animation),
                   child: backTitle,
@@ -238,7 +238,7 @@ class _BackdropTitle extends AnimatedWidget {
                 child: FractionalTranslation(
                   translation: Tween<Offset>(
                       begin: Offset(-0.25, 0.0),
-                      end: Offset(1, 0.0)
+                      end: Offset.zero
                   ).evaluate(animation),
                   child: frontTitle,
                 ),

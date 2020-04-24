@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/liangkaikuo/development/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/liangkaikuo/Documents/flutter/material-components-flutter-codelabs/mdc_100_series"
-export "FLUTTER_TARGET=/Users/liangkaikuo/Documents/flutter/material-components-flutter-codelabs/mdc_100_series/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/liangkaikuo/Documents/flutter/material-components-flutter-codelabs"
+export "FLUTTER_TARGET=/Users/liangkaikuo/Documents/flutter/material-components-flutter-codelabs/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/liangkaikuo/development/flutter/bin/cache/artifacts/engine/ios"
